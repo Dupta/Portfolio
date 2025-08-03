@@ -6,6 +6,7 @@ import { useHistory } from '../components/history/hook';
 import { History } from '../components/history/History';
 import { banner } from '../utils/bin';
 
+
 interface IndexPageProps {
   inputRef: React.MutableRefObject<HTMLInputElement>;
 }
@@ -62,4 +63,6 @@ const IndexPage: React.FC<IndexPageProps> = ({ inputRef }) => {
   );
 };
 
+
 export default IndexPage;
+

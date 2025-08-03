@@ -56,4 +56,4 @@ config.json
 
 And the changes should be applied upon saves!
 
-EOM
+EOM 
